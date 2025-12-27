@@ -108,3 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or suggestions, please open an issue in the repository. 
+
+##model reference
+https://huggingface.co/spaces/Nova35/nllb_distilled_translator/tree/main/app
