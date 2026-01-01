@@ -1,6 +1,10 @@
 # Neural Translator
 
-project visit here : https://neuraltranslator.netlify.app/
+##🚀  project visit here : https://neuraltranslator.netlify.app/
+
+
+
+
 A modern, efficient neural machine translation application that leverages knowledge distillation techniques to provide high-quality translations across multiple languages.
 
 ![Neural Translator Screenshot](public/screenshot.png)
